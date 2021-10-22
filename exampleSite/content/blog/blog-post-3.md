@@ -1,6 +1,6 @@
 ---
-title: My Awesome Blog Post
-date: 2019-11-23T15:28:43.000+06:00
+title: Thanos 2.0! What will be different?
+date: 2021-10-21T09:28:43+01:00
 author: themefisher
 image: images/blog/blog-1.jpg
 description: this is meta description
@@ -14,7 +14,7 @@ tags:
 type: post
 
 ---
-## **Thanos 2.0! what will be different?**
+## **Thanos 2.0! What will be different?**
 
 Thanos 2.0 is the second edition of the HackBio internship in the year 2021. This is our first time doing 2 internships in a year, and it has come with its own opportunities and challenges. Well, things are a bit different this time and going forward. Thanos 2.0 comes with:
 
