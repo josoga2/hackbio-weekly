@@ -33,7 +33,7 @@ preview:
 
   # button
   button:
-    enable : false
+    enable : true
     label : "Subscribe"
     link : "https://www.getrevue.co/profile/thehackbio?via=twitter-profile-webview"
 
