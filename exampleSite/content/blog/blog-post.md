@@ -1,6 +1,6 @@
 ---
 title: On Scheduling
-date: 2019-11-23T15:28:43.000+06:00
+date: 2021-10-21T09:28:43+01:00
 author: themefisher
 image: images/blog/blog-1.jpg
 description: this is meta description
