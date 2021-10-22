@@ -2,15 +2,14 @@
 banner:
   enable : true
   writter : "George Stewart"
-  title : "The Man in the <br>Glass House"
+  title : "HackBio Weekly"
   image : "images/about/book.png"
-  content : "We work with our partners to streamline project plans that don’t just deliver on
-            product perfection, but also delivers on time."
-  price : "14.99"
+  content : "Weekly newsletter of HackBio"
+##  price : "14.99"
 
 ######################## Book Preview ##########################
 preview:
-  enable : true
+  enable : false
   pagePreview:
     # page preview loop
     - image : "images/about/book_page.png"
@@ -34,14 +33,14 @@ preview:
 
   # button
   button:
-    enable : true
+    enable : false
     label : "Purchase on Amazon"
     link : "#"
 
 
 ########################## Service ##############################
 service:
-  enable : true
+  enable : false
   serviceItem:
     # service item loop
     - title : "Experience"
@@ -61,14 +60,14 @@ service:
 
 ######################### Quote #############################
 quote:
-  enable : true
+  enable : false
   quote: "It's simply the best guide to making money online ever released which only a fool would ignore."
   quoteBy: "John Smith"
 
 
 ######################### Chapters ##########################
 chapters:
-  enable : true
+  enable : false
   title : "Full Chapter Overview"
   subtitle : "Libero atque veniam molestiae ipsa aliquid quam facilis dolore."
   chapter:
@@ -99,7 +98,7 @@ chapters:
 
 ########################## Revews ###########################
 reviews:
-  enable : true
+  enable : false
   title : "What people are saying"
   subtitle : "Amazing reviews illo tenetur laboriosam excepturi velit in, temporibus ab rem dicta sint obcaecati!"
   review:
@@ -134,7 +133,7 @@ reviews:
 
 #################################### device ################################
 devices:
-  enable : true
+  enable : false
   title : "Read it on your favorite device!"
   content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Molestiae quod, nobis repudiandae! In
           commodi accusamus molestiae, sunt, tempora fugiat doloribus sint quisquam illo numquam corporis
@@ -154,13 +153,13 @@ devices:
 
   # button
   button:
-    enable : true
+    enable : false
     label : "Purchase on amazon"
     link : "#"
 
 ######################################## author #############################
 author:
-  enable : true
+  enable : false
   image : "images/about/home-1.jpg"
   name : "Yasin Arafat"
   designation : "A technical Writer"
@@ -176,7 +175,7 @@ author:
 
 ################################ Awards #####################################
 awards:
-  enable : true
+  enable : false
   title : "We are award winner best selling book among the top rated 10 books!"
   award:
     # award item loop
@@ -198,7 +197,7 @@ awards:
 
 ############################# Other books ###############################
 otherBooks:
-  enable : true
+  enable : false
   title : "Others books by the author"
   subtitle : "Laboriosam eos aperiam excepturi accusamus velit repudiandae sit rem incidunt, similique
             facere quas blanditiis."
@@ -228,7 +227,7 @@ blog:
 
 ################################# Contact ##############################
 contact:
-  enable : true
+  enable : false
   title : "Contact Us"
   subtitle : "Whether you have questions or you would just like to say hello, contact us.Lorem ipsum dolor sit amet, consectetur adipisicing elit. Provident, atque!"
   contactItem:
