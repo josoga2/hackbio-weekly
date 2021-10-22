@@ -1,49 +1,32 @@
 ---
-title: "My Awesome Blog Post"
-date: 2019-11-23T15:28:43+06:00
-draft: false
+title: Early results from the Nigerian 100K genome project suggests we may not be
+  so diverse (TLDR)
+date: 2021-10-21T09:28:43+01:00
+author: themefisher
+image: images/blog/blog-1.jpg
+description: this is meta description
+categories:
+- New Book
+tags:
+- Photos
+- HTML
+- Book
+- New
+type: post
 
-# post author
-author : "themefisher"
-
-# post thumb
-image: "images/blog/blog-1.jpg"
-
-# meta description
-description: "this is meta description"
-
-# taxonomies
-categories: ["New Book"]
-tags: ["Photos", "HTML", "Book", "New"]
-# post type
-type: "post"
 ---
+## **Early results from the Nigerian 100K genome project suggests we may not be so diverse (TLDR)**
 
+The Nigerian 100K genome project is as complete as 70% in terms of sample collection. One of the key collaborators for this project is the fast-rising African Health Giant, 54gene. Presenting at the American Society for Human Genetics Conference, Colm O'Dushlaine (PhD) talked about the strides achieved so far with respect to data analysis. \~1% of target data suggests Nigerians may not be so diverse genetically.
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Possimus natus, consectetur? Illum libero vel
-nihil nisi quae, voluptatem, sapiente necessitatibus distinctio voluptates, iusto qui. Laboriosam autem,
-nam voluptate in beatae.
+You can imagine having 50 major ethnic groups that can only be resolved into 7 genetic groups. In fact, what makes these clusters different is not clear.
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veniam officiis perspiciatis, eaque porro ad
-facilis vel amet. Pariatur eligendi odio voluptatem provident modi eos, perferendis quas delectus.
-Dolore, quo. Ad.
+This pops some interesting questions:
 
+* Is the Nigerian genome truly diverse as we have suggested initially?
+* What implication could the potentially non-diverse genome of the most populous black nation have on continental Africa?
+* Can Nigeria expect precision medicine faster than anticipated?
 
-> A brand for a company is like a reputation for a person. You earn reputation by
-trying to do hard things well.
+In any case, we think Nigeria and Africa at large still need to continue to collect more samples for sequencing. With more data, intelligence increases, and directions become clear. Going forward, big data is imminent. Is the available bioinformatics talent enough to “slice the data” into information? With one qualified bioinformatician available for 10 openings, we think the gap is still wide. To bridge this gap, HackBio will continue to churn out highly skilled bioinformatics talents. Watch out for future editions of our newsletter for our Conversion Survey Report (2020-2021).
 
-## We are leading industry to build your career
-
-The same is true as we experience the emotional sensation of
-stress from our first instances of social rejection ridicule. We quickly learn to fear and thus
-automatically.
-
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vel sunt, neque voluptatibus excepturi
-laboriosam possimus adipisci quidem dolores omnis, nemo dolore eligendi blanditiis voluptatem in,
-doloribus hic aperiam maiores fugit.
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Iste, rerum beatae repellat
-tenetur incidunt quisquam libero dolores laudantium. Nesciunt quis itaque quidem, voluptatem autem eos
-animi laborum iusto expedita sapiente.
-                
+Author: HackBio
