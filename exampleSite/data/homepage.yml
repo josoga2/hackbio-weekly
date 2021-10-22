@@ -1,7 +1,7 @@
 ########################## Banner #############################
 banner:
   enable : true
-  writter : "George Stewart"
+  writter : "HackBio"
   title : "HackBio Weekly"
   image : "images/about/book.png"
   content : "Weekly newsletter of HackBio"
@@ -222,7 +222,7 @@ otherBooks:
 blog:
   enable : true
   title : "Our insights and articles"
-  subtitle : "Laboriosam eos aperiam excepturi accusamus velit repudiandae sit rem incidunt, similique facere quas blanditiis."
+  subtitle : "Editorials, Software picks, bioinformatics news and opportunities"
   # blog post comes from 'content/blog'
 
 ################################# Contact ##############################
