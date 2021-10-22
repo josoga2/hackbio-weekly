@@ -34,8 +34,8 @@ preview:
   # button
   button:
     enable : false
-    label : "Purchase on Amazon"
-    link : "#"
+    label : "Subscribe"
+    link : "https://www.getrevue.co/profile/thehackbio?via=twitter-profile-webview"
 
 
 ########################## Service ##############################
