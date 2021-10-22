@@ -1,49 +1,27 @@
 ---
-title: "My Awesome Blog Post"
-date: 2019-11-23T15:28:43+06:00
-draft: false
+title: On Scheduling
+date: 2019-11-23T15:28:43.000+06:00
+author: themefisher
+image: images/blog/blog-1.jpg
+description: this is meta description
+categories:
+- Go Language
+tags:
+- Photos
+- HTML
+- Python
+- New
+type: post
+draft: true
 
-# post author
-author : "themefisher"
-
-# post thumb
-image: "images/blog/blog-1.jpg"
-
-# meta description
-description: "this is meta description"
-
-# taxonomies
-categories: ["Go Language"]
-tags: ["Photos", "HTML", "Python", "New"]
-# post type
-type: "post"
 ---
+## **On Scheduling**
 
+Adulthood is a scam. It seems like what we have to do is unending. From working to handling school to running a business to taking online classes…aah! We become so busy that a lot of the time the important things we’re supposed to do are left unattended.
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Possimus natus, consectetur? Illum libero vel
-nihil nisi quae, voluptatem, sapiente necessitatibus distinctio voluptates, iusto qui. Laboriosam autem,
-nam voluptate in beatae.
+Here are some helpful tips on how to get better at managing school/work/life with the demands of HackBio Internship 😉.
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veniam officiis perspiciatis, eaque porro ad
-facilis vel amet. Pariatur eligendi odio voluptatem provident modi eos, perferendis quas delectus.
-Dolore, quo. Ad.
-
-
-> A brand for a company is like a reputation for a person. You earn reputation by
-trying to do hard things well.
-
-## We are leading industry to build your career
-
-The same is true as we experience the emotional sensation of
-stress from our first instances of social rejection ridicule. We quickly learn to fear and thus
-automatically.
-
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vel sunt, neque voluptatibus excepturi
-laboriosam possimus adipisci quidem dolores omnis, nemo dolore eligendi blanditiis voluptatem in,
-doloribus hic aperiam maiores fugit.
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Iste, rerum beatae repellat
-tenetur incidunt quisquam libero dolores laudantium. Nesciunt quis itaque quidem, voluptatem autem eos
-animi laborum iusto expedita sapiente.
-                
+* **Schedule your time in advance** ⏱️: Yes, we all have 24 hours daily, no more no less! Think ahead of what your week should look like. On Saturdays and Sundays, the burden of the internship is less, use this time to plan the week. In fact, you can use your google calendar 📅 + google tasks ✔️ (Our CTO, [Wale](https://www.linkedin.com/in/adewale-joseph-ogunleye-09029684) also uses this).
+* **Dedicate your peak performance hours to your important tasks ☕**: If you work best/fastest in the morning, do the most important tasks in the morning.
+* **Give yourself breaks 😴**: If you don’t take a break, you will break down. It is as simple as that. In fact, we encourage you to sleep deep and well. It's important for a healthy mind
+* **Expect to use more time than scheduled ⌛**: You are not a robot, even though we try to focus and dedicate as much energy and attention, there are seconds/minutes of distractions that take more time than we expect.
