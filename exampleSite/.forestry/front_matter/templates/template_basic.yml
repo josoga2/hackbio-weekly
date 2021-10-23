@@ -18,6 +18,20 @@ fields:
       format: markdown
   label: hb-label
   description: Text Drscription
+- name: title
+  type: text
+  config:
+    required: false
+  label: title
+- name: text-area
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: text-area
 - name: hb-tags
   type: tag_list
   default: []
