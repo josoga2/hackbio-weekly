@@ -1,4 +1,25 @@
 ---
 label: template_basic
 hide_body: true
-fields: []
+fields:
+- name: hackbio
+  type: file
+  config:
+    maxSize: 64
+  label: Hackbio
+  description: Credits
+- name: hb-label
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: hb-label
+  description: Text Drscription
+- name: hb-tags
+  type: tag_list
+  default: []
+  label: hb-tags
+  description: Tags
