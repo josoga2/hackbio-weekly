@@ -24,3 +24,7 @@ Here are some helpful tips on how to get better at managing school/work/life wit
 * **Dedicate your peak performance hours to your important tasks ☕**: If you work best/fastest in the morning, do the most important tasks in the morning.
 * **Give yourself breaks 😴**: If you don’t take a break, you will break down. It is as simple as that. In fact, we encourage you to sleep deep and well. It's important for a healthy mind
 * **Expect to use more time than scheduled ⌛**: You are not a robot, even though we try to focus and dedicate as much energy and attention, there are seconds/minutes of distractions that take more time than we expect.
+
+**Author:** Chidimma Nwaku
+
+> _Disclaimer: The opinion and ideas in this report are of the author and do not represent the ideas of the organizations/brands herein._
