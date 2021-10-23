@@ -24,4 +24,6 @@ Thanos 2.0 is the second edition of the HackBio internship in the year 2021. Thi
 * Abstract submission in at least one international conference
 * Round the clock office hour
 
-Author: HackBio
+**Author:** HackBio
+
+> _Disclaimer: The opinion and ideas in this report are of the author and do not represent the ideas of the organizations/brands herein._
