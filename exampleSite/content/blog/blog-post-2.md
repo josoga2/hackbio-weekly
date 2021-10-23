@@ -24,9 +24,11 @@ You can imagine having 50 major ethnic groups that can only be resolved into 7 g
 This pops some interesting questions:
 
 * Is the Nigerian genome truly diverse as we have suggested initially?
-* What implication could the potentially non-diverse genome of the most populous black nation have on continental Africa?
+* What implications could the potentially "not so diverse" genome of the most populous black nation have on continental Africa?
 * Can Nigeria expect precision medicine faster than anticipated?
 
 In any case, we think Nigeria and Africa at large still need to continue to collect more samples for sequencing. With more data, intelligence increases, and directions become clear. Going forward, big data is imminent. Is the available bioinformatics talent enough to “slice the data” into information? With one qualified bioinformatician available for 10 openings, we think the gap is still wide. To bridge this gap, HackBio will continue to churn out highly skilled bioinformatics talents. Watch out for future editions of our newsletter for our Conversion Survey Report (2020-2021).
 
-Author: HackBio
+**Author:** Wale Ogunleye (HackBio)
+
+> _Disclaimer: The opinion and ideas in this report are of the author and do not represent the ideas of the organizations/brands herein._
