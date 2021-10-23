@@ -23,3 +23,5 @@ fields:
   default: []
   label: hb-tags
   description: Tags
+pages:
+- exampleSite/content/blog/types_of_interns.md
