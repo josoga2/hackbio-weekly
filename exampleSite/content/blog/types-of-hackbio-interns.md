@@ -2,23 +2,33 @@
 author = "themefisher"
 categories = ["Creative"]
 date = 2021-10-21T08:28:43Z
-description = "this is meta description"
+description = "Just for laughs"
 draft = true
 image = "images/blog/blog-1.jpg"
 tags = ["Photos", "HTML", "Book", "New"]
-title = "Types of HackBio Interns"
+title = "5 Types of HackBio Interns"
 type = "post"
 
 +++
-## **Thanos 2.0! What will be different?**
+## **Five types of HackBio Interns** 🤪**!**
 
-Thanos 2.0 is the second edition of the HackBio internship in the year 2021. This is our first time doing 2 internships in a year, and it has come with its own opportunities and challenges. Well, things are a bit different this time and going forward. Thanos 2.0 comes with:
+Just for Laughs.
 
-* Dedicated Teaching Assistants
-* Cloud compute servers ([GCP](https://cloud.google.com/))
-* Real Research Projects (publication-worthy)
-* Abstract submission in at least one international conference
-* Round the clock office hour
+1. The Confused
+
+   ![](/uploads/1.png)
+2. The Clueless
+
+   ![](/uploads/2.png)
+3. The Eager
+
+   ![](/uploads/3.png)
+4. The Supersmart
+
+   ![](/uploads/4.png)
+5. The Self Shocked
+
+   ![](/uploads/6.png)
 
 **Author:** HackBio
 
