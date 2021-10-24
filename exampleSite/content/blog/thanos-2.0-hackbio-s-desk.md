@@ -10,15 +10,28 @@ title = "Thanos 2.0! HackBio's Desk"
 type = "post"
 
 +++
-## **Thanos 2.0! What will be different?**
+## **Thanos 2.0! From HackBio's desk**
 
-Thanos 2.0 is the second edition of the HackBio internship in the year 2021. This is our first time doing 2 internships in a year, and it has come with its own opportunities and challenges. Well, things are a bit different this time and going forward. Thanos 2.0 comes with:
+Hello Interns,
 
-* Dedicated Teaching Assistants
-* Cloud compute servers ([GCP](https://cloud.google.com/))
-* Real Research Projects (publication-worthy)
-* Abstract submission in at least one international conference
-* Round the clock office hour
+Once again, accept our hearty congratulations on this laudable feat for being shortlisted among the thousands of applicants we received.
+
+We write to you because we know you might need some form of encouragement through this phase. The following five weeks are supposed to take you on a journey of learning, networking, and ensuring that you have a thorough understanding of bioinformatics and its various applications in the science of things.
+
+Here are a few things that we recommend through this internship:
+
+1. **Breathe, champ** – We know! We know! You might be scared because you lack a previous background in bioinformatics or health tech generally, or your fear might be, “how do I juxtapose this internship with my day job?” Our message to you is: breathe, champ! Our curriculum is set to give you time to juggle other things and provide you with the platform to learn as you go. Once again, breathe, champ!
+2. **Get in Line!** We expect that you are getting familiar with the tools and relevant consoles for this phase by now. If you require further clarifications, there are also channels for this. You may speak to your group mates, use the #help channel on Discord, or consult any administrators on the platform. Be proactive!
+3. **Take your weekly tasks seriously** – We understand that some may choose to be lackadaisical in the multitude of interns because “others would do the work”. Nah! Rest assured – knowing that we are watching and are determined to prune the uninterested/lazy ones from the determined and hardworking ones. It gives us great joy and fulfillment to see your progress through the different stages. What do we ask of you? Take your tasks seriously!
+4. **Network! Network!! Network!!!** – This internship has laid host to people from over 100 countries and five continents of the world. It is definitely a fantastic opportunity for you to meet and work with like-minded individuals and top career professionals far and wide. Leverage on it!
+5. **Be courteous to all** – It is pertinent to state that we reserve the right to revoke the membership of any intern at any point for gross misconduct and uncivil behaviour to fellow interns, mentors, and the organizers. Please, be sure to remain of the best conduct to everyone during and after the phase of your internship.
+6. **Don’t forget to follow us across all social media platforms**.
+   * LinkedIn: [https://www.linkedin.com/company/hackbio](https://www.linkedin.com/company/hackbio "https://www.linkedin.com/company/hackbio")
+
+
+   * Twitter: [https://twitter.com/TheHackbio](https://twitter.com/TheHackbio "https://twitter.com/TheHackbio")
+
+Finally, it is our pleasure to be your host for the next five weeks. We look forward to the many great things you would be and for the body of science at large. Welcome to a new dispensation! **Welcome to HackBio!**
 
 **Author:** HackBio
 
