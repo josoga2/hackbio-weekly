@@ -3,7 +3,6 @@ author = "themefisher"
 categories = ["Creative"]
 date = 2021-10-21T08:28:43Z
 description = "this is meta description"
-draft = true
 image = "images/blog/blog-1.jpg"
 tags = ["Photos", "HTML", "Book", "New"]
 title = "Thanos 2.0! HackBio's Desk"
